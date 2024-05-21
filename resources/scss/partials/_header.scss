@@ -1,3 +1,15 @@
-header {
+.ms-header {
     min-height: 75px;
+
+    .ms-container {
+        height: 70%;
+
+        .ms-logo {
+            height: 100%;
+    
+            .ms-logo-img {
+                height: 100%;
+            }
+        }
+    }
 }
